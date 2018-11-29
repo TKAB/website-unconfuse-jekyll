@@ -11,8 +11,6 @@ intro_paragraph: >-
   It helps you to sort out valuable from irrelevant stuff and keep it organized.
 
 
-
-
-  ## Login
+  ## [Login](https://app.unconfuse.me)
 ---
 
