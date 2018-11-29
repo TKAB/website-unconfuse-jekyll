@@ -7,7 +7,7 @@ intro_paragraph: >-
   unconfuse helps you to track your info while you're browsing and makes it easy
   to find it later.
   
-  It helps you to sort out valuable from irrelevant stuff and keep it organized.
+  It assists you in sorting out valuable from irrelevant stuff and keeping it organized.
 ---
 
 [log in](https://app.unconfuse.me)
