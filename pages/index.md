@@ -9,11 +9,9 @@ intro_paragraph: >-
 
 
   It helps you to sort out valuable from irrelevant stuff and keep it organized.
-
-
-  [log in](https://app.unconfuse.me)
-
-  %small
-    If you're interested in getting early access to the closed beta, write an email to [thomas@unconfuse.me](mailto:thomas@unconfuse.me).
 ---
 
+[log in](https://app.unconfuse.me)
+
+% small
+  If you're interested in getting early access to the closed beta, write an email to [thomas@unconfuse.me](mailto:thomas@unconfuse.me).
