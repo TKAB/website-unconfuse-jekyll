@@ -13,5 +13,5 @@ intro_paragraph: >-
 
 [log in](https://app.unconfuse.me)
 
-% small
+%small
   If you're interested in getting early access to the closed beta, write an email to [thomas@unconfuse.me](mailto:thomas@unconfuse.me).
