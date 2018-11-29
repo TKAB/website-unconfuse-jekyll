@@ -1,12 +1,13 @@
 ---
 layout: home
-title: Welcome
+title: 'Keep your info, find it later.'
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: >-
+  unconfuse helps you to keep you info while you're browsing and makes it easy
+  to find it later.
+
+
+  It helps you to sort out valuable from irrelevant stuff and keep it organized.
 ---
+
